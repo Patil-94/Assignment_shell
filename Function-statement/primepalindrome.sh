@@ -1,4 +1,3 @@
-  GNU nano 4.9.2                                                                                                                primepalindrome.sh
 #!/bin/bash -x
 
 function checkpalindrome(){
